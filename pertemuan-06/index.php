@@ -1,6 +1,3 @@
-
-
-
 <?php
 // Pengujian awal eksekusi PHP.
 echo "PHP berhasil dijalankan.";
@@ -14,6 +11,14 @@ echo "PHP berhasil dijalankan.";
     <title>Profil Mahasiswa</title>
     <link rel="stylesheet" href="style.css">
 </head>
+<?php
+// Komentar satu baris.
+echo "Keluaran menggunakan echo.";
+/*
+Komentar beberapa baris.
+Komentar ini tidak ditampilkan pada halaman.
+*/
+?>
 <body>
 <?php
 // Komentar satu baris.
