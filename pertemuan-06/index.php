@@ -83,7 +83,7 @@ switch ($programStudi) {
             ?>.</p> 
             
             
-            <img src="img/foto.jpg" height="180" width="190" alt="foto-profil">
+            <img src="img/foto-profil.jpg" height="180" width="190" alt="foto-profil">
         </section>
         <section id="about">
            <p>Halo, saya <strong><?php echo $namaMahasiswa; ?></strong>. Saya sedang mempelajari matakuliah <strong><?php print NAMA_MATA_KULIAH; ?></strong> pada tahun akademik <?php echo $tahunAkademik; ?>.</p>
